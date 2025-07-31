@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo](https://your-solution-url.com)
-- Live Site URL: [github pages live url](https://your-live-site-url.com)
+- Solution URL: [github repo](https://github.com/zakaria-guenifi/Product-preview-card-component)
+- Live Site URL: [github pages live url](https://zakaria-guenifi.github.io/Product-preview-card-component/)
 
 ### Built with
 - Semantic HTML5 markup
